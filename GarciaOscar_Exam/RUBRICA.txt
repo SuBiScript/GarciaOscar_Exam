@@ -1,0 +1,76 @@
+Funcionalidades añadidas:
+
+* (0,5p) Crear un Terrain como base jugable, texturizado y con vegetación.
+* (0,5p) Todas las entradas nuevas de input (crear al menos 2) deberán estar
+mapeadas con Actions/Axis en vez de por eventos directos de
+teclado/mouse.
+
+	- Añadidos en Los settings del proyecto e Input
+
+* (1p) Crear al menos 3 triggers con diferentes funcionalidades
+
+	- Moneda coleccionable (cubo amarillo en escena)
+	- Puerta que se abre si se recogen las 3 monedas
+	- Secuencia (se puede conocer la ubicación gracias a un text render)
+
+* (0,5p) Iluminar el escenario con al menos 3 tipos diferentes de luces. Y
+implementar una simulación del ciclo de día/noche.
+
+	- 3 luces añadidas en la carpeta "Lights" del WorldOutliner, pero no hay ciclo de día/noche
+
+* (1p) Crear un HUD que muestre al menos 3 de las siguientes cosas:
+
+	- Hud para las monedas recogidas
+	- Pantalla en rojo que emula sangre del jugador (pulsando la tecla "H", evento HitPlayerDebug en settings del proyecto)
+	- Feedback usando widget al tratar de abrir la puerta sin recoger las monedas o en la secuencia
+
+(1p) Crear al menos 2 animaciones para los elementos de HUD.
+
+	- Al arrancar el juego se anima el contador de monedas 
+	- Cuando se recogen monedas se anima con efecto de parpadeo
+	- El feedback de la puerta tambíen se ha animado
+
+(1p) Añadir 2 estados en el animation blueprint del Third Person
+
+	- Al mantener pulsado "Q" el personaje bailará
+	- Al mantener pulsado "C" el personaje se agachará (idle)
+
+(1p) Hacer el retarget de la animación de Mixamo y aplicarla al player.
+
+	- Creado para añadir la capoeira cuando pulsamos "Q" al bailar
+	- Dentro de Content/Mannequin/Animations/Retarget, se encuentran las animaciones nuevas
+
+(1p) Crear una secuencia que contenga al menos 4 de las siguientes
+opciones:
+
+	- Pincha nueva cámara
+	- Bloquea los controloes del player
+	- Lanza un sonido
+	- Lanza evento en el HUD (feedback)
+
+(0,5p) Crear y lanzar un sonido que al menos tenga 2 de estas
+características:
+
+	- En el sonido aplicado a la secuencia se han añadido diferentes sonidos con un flip flop y selecciona un valor aleatorio entre dos valores para su pitch
+
+(0,5p) Crear alguna funcionalidad en entre las siguientes, en el Level
+Blueprint:
+
+	- Se puede reiniciar el nivel pulsando la tecla "R"
+
+(1,5p) Crear una IA a partir del third person controller que implemente 3 de
+las siguientes opciones:
+
+	- Aunque inicialmente se creó para que patrullase, por falta de tiempo no he logado que funcione, su función es ir hacía el player al verlo
+
+(0,5p) Aplicar la funcionalidad de que el player pueda poseer alguna IA.
+
+	- Pulsando la tecla "E" poseemos al enemigo durante 5 segundos, pasado ese tiempo se le aplica un ragdoll y vuelve el control al player
+
+
+
+
+
+
+
+
