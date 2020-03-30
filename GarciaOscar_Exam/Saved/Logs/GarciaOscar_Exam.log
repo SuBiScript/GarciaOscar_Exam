@@ -9157,3 +9157,86 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.03.30-16.47.23:971][449]AssetCheck: New page: Asset Save: multiple assets
 [2020.03.30-16.47.23:971][449]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen
 [2020.03.30-16.47.23:971][449]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.GarciaOscarExamen_BuiltData
+[2020.03.30-16.54.34:107][409]LogUObjectHash: Compacting FUObjectHashTables data took   6.83ms
+[2020.03.30-16.54.35:809][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.03.30-16.54.36:498][492]LogSavePackage: Moving 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Saved/GarciaOscarExamen7722A76644CF5F03E5C61CBAE69F4D89.tmp' to 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Content/ThirdPersonBP/Maps/GarciaOscarExamen.umap'
+[2020.03.30-16.54.36:695][492]LogSavePackage: Moving 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Saved/GarciaOscarExamen_BuiltDataD1A78DD649D970B3CFB36D9053563BDD.tmp' to 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Content/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.uasset'
+[2020.03.30-16.54.36:727][492]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-16.54.36:727][492]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen
+[2020.03.30-16.54.36:727][492]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.GarciaOscarExamen_BuiltData
+[2020.03.30-16.54.37:544][545]LogTemp: Repeating last play command: Selected Viewport
+[2020.03.30-16.54.37:572][545]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen' with GeneratedClass '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen'
+[2020.03.30-16.54.37:576][545]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.03.30-16.54.37:576][545]PIE: New page: PIE session: GarciaOscarExamen (30 Mar 2020, 20:54:37)
+[2020.03.30-16.54.37:576][545]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen
+[2020.03.30-16.54.37:695][545]LogPlayLevel: PIE: StaticDuplicateObject took: (0.119636s)
+[2020.03.30-16.54.37:697][545]LogAIModule: Creating AISystem for world GarciaOscarExamen
+[2020.03.30-16.54.37:697][545]LogPlayLevel: PIE: World Init took: (0.001789s)
+[2020.03.30-16.54.37:697][545]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen to /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen.GarciaOscarExamen (0.121651s)
+[2020.03.30-16.54.37:836][545]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.03.30-16.54.37:838][545]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.03.30-16.54.37:838][545]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.03.30-16.54.37:839][545]LogAudio: Display: Using built-in audio occlusion.
+[2020.03.30-16.54.37:839][545]LogAudioMixer: Display: Initializing audio mixer.
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Name: Speakers (4- Logitech Z-5 Speakers)
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Is Default: Yes
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Sample Rate: 48000
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Channel Count Used: 2
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Device Channel Count: 2
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: Channel Order:
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: 0: FrontLeft
+[2020.03.30-16.54.37:941][545]LogAudioMixer: Display: 1: FrontRight
+[2020.03.30-16.54.37:962][545]LogAudioMixer: Display: Using Audio Device Speakers (4- Logitech Z-5 Speakers)
+[2020.03.30-16.54.37:965][545]LogInit: FAudioDevice initialized.
+[2020.03.30-16.54.37:979][545]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-16.54.37:987][545]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen.GarciaOscarExamen up for play (max tick rate 0) at 2020.03.30-18.54.37
+[2020.03.30-16.54.37:988][545]LogWorld: Bringing up level for play took: 0.008455
+[2020.03.30-16.54.37:988][545]LogOnline: OSS: Creating online subsystem instance for: :Context_181
+[2020.03.30-16.54.37:994][545]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen 0.131
+[2020.03.30-16.54.37:994][545]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen' with GeneratedClass '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen'
+[2020.03.30-16.54.38:029][546]LogCharacterMovement: Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.099977 > MaxSimulationTimeStep (0.050) for 'NPC_2', movement 'Walking'
+[2020.03.30-16.54.58:290][404]LogNet: Browse: /Game/ThirdPersonBP/Maps/GarciaOscarExamen
+[2020.03.30-16.54.58:290][404]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/GarciaOscarExamen
+[2020.03.30-16.54.58:290][404]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen
+[2020.03.30-16.54.58:291][404]LogWorld: UWorld::CleanupWorld for GarciaOscarExamen, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-16.54.58:293][404]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-16.54.58:294][404]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-16.54.58:441][404]LogUObjectHash: Compacting FUObjectHashTables data took   6.12ms
+[2020.03.30-16.54.58:446][404]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen
+[2020.03.30-16.54.58:559][404]LogPlayLevel: PIE: StaticDuplicateObject took: (0.113242s)
+[2020.03.30-16.54.58:561][404]LogAIModule: Creating AISystem for world GarciaOscarExamen
+[2020.03.30-16.54.58:562][404]LogPlayLevel: PIE: World Init took: (0.001990s)
+[2020.03.30-16.54.58:562][404]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen to /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen.GarciaOscarExamen (0.115545s)
+[2020.03.30-16.54.58:562][404]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2020.03.30-16.54.58:588][404]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen.GarciaOscarExamen up for play (max tick rate 0) at 2020.03.30-18.54.58
+[2020.03.30-16.54.58:589][404]LogWorld: Bringing up level for play took: 0.025719
+[2020.03.30-16.54.58:592][404]LogLoad: Took 0.301780 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen)
+[2020.03.30-16.55.04:226][807]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-16.55.04:226][807]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-16.55.04:226][807]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen' with GeneratedClass '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen'
+[2020.03.30-16.55.04:230][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-16.55.04:230][807]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_GarciaOscarExamen
+[2020.03.30-16.55.04:230][807]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-16.55.04:231][807]LogWorld: UWorld::CleanupWorld for GarciaOscarExamen, bSessionEnded=true, bCleanupResources=true
+[2020.03.30-16.55.04:232][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-16.55.04:254][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.03.30-16.55.04:255][807]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen' with GeneratedClass '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen:PersistentLevel.GarciaOscarExamen'
+[2020.03.30-16.55.04:264][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.03.30-16.55.04:400][807]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.03.30-16.55.04:404][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.03.30-16.55.04:416][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.19ms
+[2020.03.30-16.55.04:454][808]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2020.03.30-16.55.12:663][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.03.30-16.55.13:313][976]LogSavePackage: Moving 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Saved/GarciaOscarExamen22E1A85042374E19CBA51A96563DBDCA.tmp' to 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Content/ThirdPersonBP/Maps/GarciaOscarExamen.umap'
+[2020.03.30-16.55.13:488][976]LogSavePackage: Moving 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Saved/GarciaOscarExamen_BuiltData7EF0793C4CB1F9825DFF3BABC271B37F.tmp' to 'E:/University/Tercero/Subjects/2T_GameEngine/Examen/UE4Exam/GarciaOscar_Exam/GarciaOscar_Exam/Content/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.uasset'
+[2020.03.30-16.55.13:518][976]AssetCheck: New page: Asset Save: multiple assets
+[2020.03.30-16.55.13:518][976]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/GarciaOscarExamen.GarciaOscarExamen
+[2020.03.30-16.55.13:518][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.GarciaOscarExamen_BuiltData
+[2020.03.30-16.55.17:485][225]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
