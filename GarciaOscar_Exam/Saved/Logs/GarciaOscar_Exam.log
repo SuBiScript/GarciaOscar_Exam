@@ -9241,3 +9241,17 @@ please set the "Use T0 as ref pose" option or add them to the bind pose and reim
 [2020.03.30-16.55.13:518][976]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/GarciaOscarExamen_BuiltData.GarciaOscarExamen_BuiltData
 [2020.03.30-16.55.17:485][225]LogUObjectHash: Compacting FUObjectHashTables data took   7.11ms
 [2020.03.30-16.56.06:789][486]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.
+[2020.03.30-16.56.43:022][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Environment/Door/Door_BP.
+[2020.03.30-16.56.43:034][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Environment/Items/CoinItem_BP.
+[2020.03.30-16.56.43:042][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Environment/Items/Item_BP.
+[2020.03.30-16.56.43:056][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/HUD/CoinIndicator_BP.
+[2020.03.30-16.56.43:084][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/HUD/TextToDisplay_BP.
+[2020.03.30-16.56.43:098][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC/NPC.
+[2020.03.30-16.56.43:110][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC/NPC_AI.
+[2020.03.30-16.56.43:127][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC/Services/ChangeNPCSpeed_Service.
+[2020.03.30-16.56.43:138][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC/Tasks/FindPathPoint_Task.
+[2020.03.30-16.56.43:148][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/NPC/Tasks/IncrementPath_Task.
+[2020.03.30-16.56.43:159][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Sequence/LevelSequence.
+[2020.03.30-16.56.43:166][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Blueprints/Sequence/TriggerSequence.
+[2020.03.30-16.56.43:285][594]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Mannequin/Animations/Retarget/StarterPack/UE4ASP_HeroTPP_AnimBlueprint.
+[2020.03.30-16.56.43:418][595]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Maps/GarciaOscarExamen.
